@@ -1,0 +1,3 @@
+fastapi # a modern, fast (high-performance), web framework for building APIs with Python based on standard Python type hints. Documentation at https://fastapi.tiangolo.com/ 
+uvicorn # an ASGI (Asynchronous Server Gateway Interface) web server implementation for Python. Documentation at https://www.uvicorn.org/
+pydantic # the most widely used data validation library for Python. Documentation at https://docs.pydantic.dev/latest/
